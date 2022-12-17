@@ -5,7 +5,7 @@ An online food ordering system – a website that allows customers to view the m
 and an admin interface that enables the restaurant to receive and fulfil customer orders.
 ## Photo
 
-![Food Delivery Website](https://www.imagebam.com/view/MEHHX1C)
+![Food Delivery Website](https://i.postimg.cc/BQM6NSbk/Screenshot-702.png)
 
 ## Used By
 
